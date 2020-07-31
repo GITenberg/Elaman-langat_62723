@@ -1,0 +1,26 @@
+_repo: Elaman-langat_62723
+_version: 0.0.1
+alternative_title: Lindealléen. Finnish
+creator:
+  author:
+    agent_name: Baadsgaard, Anna
+    birthdate: 1865
+    deathdate: 1954
+    gutenberg_agent_id: '52090'
+    url: http://www.gutenberg.org/2009/agents/52090
+    wikipedia: https://da.wikipedia.org/wiki/Anna_Baadsgaard
+description: ''
+gutenberg_issued: '2020-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62723'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Danish fiction -- Translations into Finnish'
+- !lcc 'PT'
+- GITenberg
+title: Elämän langat
+url: http://www.gutenberg.org/ebooks/62723
